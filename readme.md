@@ -12,3 +12,4 @@ La maquetación del layout se puede hacer con flex o con otros displays.
 HTML semántico y validado con su validador web
 CSS con SASS, validado con su validador web
 En el challenge se ponen a prueba los conocimientos previo de CSS, que serán revisados con detalle en la siguiente sesión.
+.
